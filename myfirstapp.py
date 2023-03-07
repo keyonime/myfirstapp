@@ -33,7 +33,7 @@ if show:
     'Churn Status': [0, 0, 0, 1]
 }))
 
-    import streamlit as st
+import streamlit as st
 import numpy as np
 import pandas as pd
 
